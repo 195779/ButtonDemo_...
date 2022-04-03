@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ButtonDemo">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView01"
+        android:textAllCaps="false"
+        android:hint="@string/hello"
+        android:textSize="25dp"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/Button01"
+        android:text="验证ButtonDemo实验（下面灰色图片也是，可以点击）"
+        android:textAllCaps="false"
+        />
+    <ImageButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ImageButton01"
+        android:textAllCaps="false"
+        android:id="@+id/ImageButton01"
+        android:src="@drawable/ic_launcher_foreground"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:id="@+id/image01"
+        android:src="@drawable/whitedog"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="To CheckBoxRatioButton实验界面"
+        android:layout_marginTop="5dp"
+        android:id="@+id/toCBRB"
+        android:textAllCaps="false" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="To TabDemo实验界面"
+        android:layout_marginTop="5dp"
+        android:id="@+id/toTD"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:id="@+id/button_hebut"
+        android:text="ToListView实验界面：可以、点击可两个可滑动的listview选择进入河北工大下辖学院官网"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:id="@+id/button_GCM"
+        android:text="Spinner实验：选择年级、学院、班级"
+        android:textAllCaps="false"/>
+
+</LinearLayout>

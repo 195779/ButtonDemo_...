@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="GradeData">
+        <item>18级</item>
+        <item>19级</item>
+        <item>20级</item>
+        <item>21级</item>
+    </string-array>
+    
+
+
+    <string-array name="CollegeData">
+        <item>电气学院</item>
+        <item>智能学院</item>
+    </string-array>
+
+    <string-array name="MajorData_dianqi">
+        <item>电气工程及其自动化(含卓越工程师班)</item>
+        <item>电气工程及其自动化(中外合作)</item>
+        <item>新能源科学与工程</item>
+    </string-array>
+
+    <string-array name="MajorData_zhineng">
+        <item>计算机类</item>
+        <item>自动化</item>
+        <item>人工智能</item>
+        <item>数据科学与大数据技术</item>
+        <item>物联网工程(中外合作办学)</item>
+    </string-array>
+
+    <string-array name="MajorData_jiexie">
+        <item>机械类</item>
+        <item>测控技术与仪器</item>
+        <item>智能制造工程</item>
+    </string-array>
+
+    <string-array name="Major_huagong">
+        <item>应用化学</item>
+        <item>高分子材料与工程</item>
+        <item>安全工程</item>
+        <item>化工与制药类</item>
+        <item>海洋技术</item>
+    </string-array>
+
+    <string-array name="Major_cailiao">
+        <item>材料类</item>
+        <item>材料成型与控制工程</item>
+    </string-array>
+
+    <string-array name="Major_dianxin">
+        <item>电子科学与技术</item>
+        <item>电子科学与技术（卓越工程师班）</item>
+        <item>电子信息工程</item>
+        <item>电子信息工程（人工智能新工科试点班）</item>
+        <item>通信工程</item>
+    </string-array>
+
+    <string-array name="Major_shengming">
+        <item>生物医学工程</item>
+        <item>智能医学工程</item>
+    </string-array>
+
+    <string-array name="Major_tumu">
+        <item>土木类</item>
+        <item>交通工程</item>
+        <item>土木工程（卓越工程师班）</item>
+        <item>智能建造</item>
+    </string-array>
+
+    <string-array name="Major_nenghuan">
+        <item>能源动力类</item>
+        <item>环境科学与工程类</item>
+        <item>环境工程（中外合作办学）</item>
+    </string-array>
+
+    <string-array name="Major_jianyi">
+        <item>设计学类</item>
+        <item>建筑学</item>
+        <item>城乡规划</item>
+        <item>工业设计</item>
+    </string-array>
+</resources>

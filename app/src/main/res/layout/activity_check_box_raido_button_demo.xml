@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CheckBoxRaidoButtonDemo">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAllCaps="false"
+        android:id="@+id/textview02"
+        android:text="@string/hello2"
+        android:textSize="25dp"
+        />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/checkbox01"
+        android:textAllCaps="false"
+        android:layout_marginTop="50dp"
+        android:textSize="18dp"
+        android:text="河北工业大学红桥校区院部(CheckBox01)"
+        />
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/checkbox02"
+        android:textAllCaps="false"
+        android:textSize="18dp"
+        android:text="河北工业大学红桥校区南院(CheckBox02)"
+        />
+
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/radioButton01"
+        android:layout_marginTop="50dp"
+        android:textSize="18dp"
+        android:textAllCaps="false"
+        android:text="河北工业大学红桥校区东院（RadioButton01）"/>
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAllCaps="false"
+        android:id="@+id/radioButton02"
+        android:textSize="18dp"
+        android:text = "河北工业大学北辰校区(RadioButton02)"/>
+</LinearLayout>

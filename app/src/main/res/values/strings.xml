@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ButtonDemo</string>
+    <string name="hello">实验四第一问</string>
+    <string name="hello2">实验四第二问</string>
+    <string name="hello3">实验四第三问</string>
+    <string name="hello4">实验四思考题一</string>
+    <string name="hello5">实验四思考题二:ListView的使用</string>
+    <string name="hello6">实验四思考题一：Spinner的使用</string>
+    <string name="grade">选择年级</string>
+    <string name="college">选择学院</string>
+    <string name="major">选择专业</string>
+    <string name="dianqi">电气学院：选择专业</string>
+    <string name="zhineng">智能学院：选择专业</string>
+    <string name="jiexie">机械学院：选择专业</string>
+    <string name="huagong">化工学院：选择专业</string>
+    <string name="cailiao">材料学院：选择专业</string>
+    <string name="tumu">土木学院：选择专业</string>
+    <string name="dianxin">电信学院：选择专业</string>
+    <string name="shengming">生命学院：选择专业</string>
+    <string name="nenghuan">能环学院：选择专业</string>
+    <string name="jianyi">建艺学院：选择专业</string>
+
+    <string name="First">分享</string>
+    <string name="Second">保存本地</string>
+</resources>
